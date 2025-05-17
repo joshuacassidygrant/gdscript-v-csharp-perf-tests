@@ -12,7 +12,7 @@ func run_tests() -> void:
 	print("======================")
 	print("Test 1: Render n tiles")
 	
-	var ns = [100, 1000, 10000]
+	var ns = [100, 1000, 5000, 10000]
 	
 	for n in ns:
 		print("n = %d" % n)
