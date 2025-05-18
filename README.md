@@ -1,6 +1,9 @@
 # gdscript-v-csharp-perf-tests
 Just some tests to compare relative processing speeds between GDScript and C# in Godot
 
+Video and explanation here
+https://youtu.be/l1_tQAMJFXg
+
 ## Typical results
 
 ### test1: instantiate, addChild and position n nodes
